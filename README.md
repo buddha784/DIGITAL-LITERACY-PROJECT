@@ -50,7 +50,7 @@ Created and updated profiles on:
 
 ## 🔗 Useful Links
 
-- GitHub Profile: [Add your link]
+- GitHub Profile: https://github.com/buddha784
 - LinkedIn Profile: https://www.linkedin.com/in/buddha-s-b2b726219/
 - Google Form: https://docs.google.com/forms/d/e/1FAIpQLSeEbZh2K2WCfzI0U6WRCNzRzK-k1pQQDnMvC1ahK_bo6MZigg/viewform?usp=header
 
